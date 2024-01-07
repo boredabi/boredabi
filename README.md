@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boredabi
 - 👀 I’m interested in machine learning like everybody else 
-- 🌱 I’m currently learning c programming, DSA, version control and stats for compsci
-- 💞️ I’m looking to collaborate on anything where I can get one step closer in my understanding with the things i have an interest for
-- 📬 You can reach me on boredbot69@gmail.com
+- 🌱 I’m currently learning C programming, DSA, version control, and stats for CompSci
+- 💞️ I’m looking to collaborate on anything where I can get one step closer in my understanding of the things I have an interest for
+- 📬 You can reach me at boredbot69@gmail.com
